@@ -10,7 +10,7 @@ namespace gitgitgitest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("깃허브 테스트하고있습니다.");
+            Console.WriteLine("깃허브 테스트하고있다.");
         }
     }
 }
